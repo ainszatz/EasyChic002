@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-project-easychic-1",
+  "private_key_id": "053844c0483407a97c124498ad19f296ea7d3d1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfOR6MIqR3XCDY\n/EQFFmY9pMunMZ37XJ351IokEe1m0w6JfPLncIRbPAMDG7PW7z4Wx/Zq0c5V7LfR\nPVLbSevFuW+Rps2wPdbbowdEtO4r5+Yl1JQH3d6Cave9+1O5p4zvlRha7zfdDDsN\nAf/JCJ4RZH3s6k82kzTmr65okLStpox8eFGAHQZgQ7woOm6hhipCURgZDhay2LZo\ncUQ1S8cMRaP3AX8e7BRRT91SYvgs9KMeb56yiH0f9IBTdsZ0pVmM3VM/9IjqKjlW\nnk7DfrcQLjtfE+brKc+TMd4EBZL4RPSYVOBMLZabIXadNPtoSNBfSNdzg6M9wISJ\nkJ12zmRdAgMBAAECggEAClUyfgujeWsp3q/ZgsyTsBiz0AbRGIyj7men4Yp0s6Zw\nHS3YvTbDr0jcaqIqmLfFDYwB8tXItPvROKd1Sw8FeC1aUs+gSuwN4rRakFP5iDRC\ny2KaW8pDWl4GHxGMp/XvmIgaOY/EHvoWm+AWEKtff8NOVe9oE8j/V6QihDCAmiu0\nWU/jylH2XzboG8+PUiFSuF4f3qKemvR6X2LoYk9jbQWNx63d9Xo4AHdvu15lvKx6\nek2sBXeVv9X37+iXI14R9V8UIe1Aq0BIpE95WH2nMnQhDM8obWI/DI/Er16T3BHV\n1byhAx5Sponpmklh7Q3OvLJZWebko0gmBfGFYdVfGQKBgQD80S8fCJwIYJoBGoVk\nAC3amtMEWJIbgoFCL782jCwmWRpkigBZCLuOKTwruKyJ2q+FS99kiobAouc+niUR\nr9tTSbiSsgYWwfA3DmpK3SPNQLcADPFErUTvgaJib3wAWotENocLf1qIKJk3IcrE\ntnB8XyCDQlfdUYHCxbhCrlsFeQKBgQDiCI4tzbi9H8LmvCIVXot94L7CvWAkjrES\nCDEP7MddUxm6mjgcZB9lMSzApn+8Mz1aUAAKs8jXYGe5zztmFOJZ2jJvZjDTL0xI\nkXu8LIxUzLVT0tMRC+sO3EO4dkzwN9qiGhhdsDf0xHu9BSo42hg+UkALxFviBpeD\ntjz9/axRBQKBgHFIcmrfersuPhO8hITYp7NKqL9LyLxW8ABuUKnqiWXtiyv9wkYi\n6Ze71mBo8bcbrIZ4BvOQNu1ekWu3hTi1qftaD0B8UMolwLOK3AoLqR0xoE5/fiSd\n10PSvKaK+e9Wowy/uidmu3RDbNQNakRW03SHU5Q9SA29lf1mhzgp1FNRAoGAcYE2\nVI3v7Rjb+J4Ux4JYrfeEE6qhcvostQ9kA8k1PAoU632yG5+znE8bWArELi/U6Vsv\nCjDJ9E23CLml7Fcka1aE6Sf58LLZrb9Q0WfVeGfrzpIZ53+CpE27vA+8Bw0lPy23\neqSZFNLuCDdlwnLSpckL3FzYfyIsR7nl2u3d8DkCgYEA3K1qAfOXiDRWk+yjMe4T\nzXTvDHGUdNkTgbjnSWPm14EYFIjdtya79WKD/DOFdoT362ZfHSaQ/4jm6NHewP+C\nz8JJP3RIWTTu2tkHDLfOYv+w7tNFwk4YsTfRftkEBxAahK8kBBDItZRvxyWzPaKn\nZalFVWwB6ytRYm1vaCLNft4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "easychic-sa@capstone-project-easychic-1.iam.gserviceaccount.com",
+  "client_id": "117522300480011688578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/easychic-sa%40capstone-project-easychic-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

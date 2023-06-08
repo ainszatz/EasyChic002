@@ -1,0 +1,25 @@
+runtime: php
+env: flex
+runtime_config:
+  document_root: public
+skip_files:
+  - .env
+env_variables:
+  APP_ENV: production
+  APP_DEBUG: false
+  APP_KEY: base64:3PP4/+m8pwp+1Y7Hxp9PaQAEnI3mqOU0nSK7iT2j7Ao=
+  CACHE_DRIVER: redis
+  SESSION_DRIVER: database
+  APP_LOG: daily
+  APP_TIMEZONE: UTC
+  DB_CONNECTION: mysql
+  DB_HOST: 104.155.128.109
+  DB_DATABASE: easychic_db
+  DB_USERNAME: root
+  DB_PASSWORD: 1234
+  DB_SOCKET: /cloudsql/capstone-project-easychic-1:us-central1:easychic-instance
+  QUEUE_DRIVER: database
+  LOG_DELETE: true
+  GOOGLE_VISION_PROJECT_ID: capstone-project-easychic-1
+beta_settings:
+  cloud_sql_instances: capstone-project-easychic-1:us-central1:easychic-instance

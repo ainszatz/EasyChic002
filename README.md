@@ -1,2 +1,1 @@
-# EasyChic002
- 
+# Easy Chic
