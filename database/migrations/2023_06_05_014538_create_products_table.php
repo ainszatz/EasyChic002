@@ -16,6 +16,7 @@ return new class extends Migration
             $table->string('name');
             $table->string('description');
             $table->string('price');
+            $table->string('colour');
             $table->string('quality');
             $table->string('size');
             $table->string('thickness');

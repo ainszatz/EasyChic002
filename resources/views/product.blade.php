@@ -35,6 +35,7 @@
                       <th style="width: 10px">ID</th>
                       <th>Name</th>
                       <th>Quality</th>
+                      <th>Colour</th>
                       <th>Thickness</th>
                       <th>Size</th>
                       <th>Price</th>
@@ -48,6 +49,7 @@
                         <td>{{ $data->id  }}</td>
                         <td>{{ $data->name  }}</td>
                         <td>{{ $data->quality  }}</td>
+                        <td>{{ $data->colour  }}</td>
                         <td>{{ $data->thickness  }}</td>
                         <td>{{ $data->size  }}</td>
                         <td>{{"Rp.".number_format($data->price)}}</td>
@@ -94,7 +96,10 @@
                     <label for="exampleInputEmail1">Product Name</label>
                     <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Product Name" name="name">
                   </div>
-                  <div class="form-group">
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <!-- text input -->
+                      <div class="form-group">
                         <label>Select Category</label>
                         <select class="form-control" name="category_id">
                           <option value="1">option 1</option>
@@ -104,6 +109,14 @@
                           <option value="1">option 5</option>
                         </select>
                       </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="form-group">
+                        <label>Colour</label>
+                        <input type="text" class="form-control" placeholder="Enter Colour" name="colour">
+                      </div>
+                    </div>
+                  </div>
                   <div class="form-group">
                     <label>Description</label>
                     <textarea class="form-control" rows="3" placeholder="Enter Product Description ..." name="description"></textarea>
@@ -113,13 +126,13 @@
                       <!-- text input -->
                       <div class="form-group">
                         <label>Quality</label>
-                        <input type="text" class="form-control" placeholder="Enter Price" name="quality">
+                        <input type="text" class="form-control" placeholder="Enter Quality" name="quality">
                       </div>
                     </div>
                     <div class="col-sm-6">
                       <div class="form-group">
                         <label>Size</label>
-                        <input type="text" class="form-control" placeholder="Enter Price" name="size">
+                        <input type="text" class="form-control" placeholder="Enter Size" name="size">
                       </div>
                     </div>
                   </div>
@@ -128,7 +141,7 @@
                       <!-- text input -->
                       <div class="form-group">
                         <label>Thickness</label>
-                        <input type="text" class="form-control" placeholder="Enter Price" name="thickness">
+                        <input type="text" class="form-control" placeholder="Enter Thickness" name="thickness">
                       </div>
                     </div>
                     <div class="col-sm-6">
