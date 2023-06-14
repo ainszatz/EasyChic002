@@ -3,13 +3,8 @@
 
 -   [Description](#description)
 -   [Requirements](#requirements)
--   [Installation](#installation)
-    -   [Google Cloud Storage](#google-cloud-storage)
-    -   [Laravel](#laravel)
--   [Admin Dashboard](#admin-dashboard)
 -   [API Usage](#api-usage)
     -   [Endpoint](#endpoints)
-    -   [Endpoint that required Authentication](#endpoints)
 -   [License](#license)
 
 ## Description
