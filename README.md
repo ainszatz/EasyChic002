@@ -5,6 +5,7 @@
 -   [Requirements](#requirements)
 -   [API Usage](#api-usage)
     -   [Endpoint](#endpoints)
+-   [Feature](#feature)
 -   [License](#license)
 
 ## Description
