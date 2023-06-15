@@ -128,40 +128,6 @@ status: `404 Not Found`
 </details>
 
 <details>
- <summary>Product | <code>POST</code> <code><b>/product</b></code></summary>
-
-##### URL
-
-`/product`
-
-##### Method
-
-`POST`
-
-##### Parameters
-
-> | key                   | type     | data type | description |
-> | --------------------- | -------- | --------- | ----------- |
-> | ID                 | required | int       | N/A         |
-> | name                  | required | string       | N/A         |
-> | category_id                 | required | int    | N/A         |
-> | description             | required | string    | N/A         |
-> | quality | required | string    | N/A         |
-> | size                  | required | string       | N/A         |
-> | thickness                  | required | string       | N/A         |
-> |colour                 | required | string       | N/A         |
-> |image                  | required | string       | N/A         |
-##### Responses
-
-status: `success`
-
-```
-    ('success', 'Product added successfully')
-```
-
-</details>
-
-<details>
  <summary>Product | <code>GET</code> <code><b>/api/product</b></code></summary>
 
 ##### URL
@@ -240,6 +206,29 @@ status: `200 OK`
 }
 
 ```
+
+</details>
+
+## Feature
+
+EasyChic Web has feature to :
+1. User List: View a list of users who have access to the EasyChic web application.
+
+<p align="center">
+    <img src="storage\User List.png" width="720">
+<p>
+
+2. Product Listing: Display a list of all stored products, including their name, description, price, and other relevant details.
+
+<p align="center">
+    <img src="storage\Product List.png" width="720">
+<p>
+
+3. Product Creation: Add new products to the application, including their attributes and associated information.
+
+<p align="center">
+    <img src="storage\Product Form.png" width="720">
+<p>
 
 
 ## License
