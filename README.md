@@ -212,19 +212,26 @@ status: `200 OK`
 ## Feature
 
 EasyChic Web has feature to :
-1. User List: View a list of users who have access to the EasyChic web application.
+
+1. Dashboard: The EasyChic Web Dashboard provides you with an overview of your user and product lists, allowing you to easily access and manage them.
+
+<p align="center">
+    <img src="storage\Dashboard.png" width="720">
+<p>
+
+2. User List: View a list of users who have access to the EasyChic web application.
 
 <p align="center">
     <img src="storage\User List.png" width="720">
 <p>
 
-2. Product Listing: Display a list of all stored products, including their name, description, price, and other relevant details.
+3. Product Listing: Display a list of all stored products, including their name, description, price, and other relevant details.
 
 <p align="center">
     <img src="storage\Product List.png" width="720">
 <p>
 
-3. Product Creation: Add new products to the application, including their attributes and associated information.
+4. Product Creation: Add new products to the application, including their attributes and associated information.
 
 <p align="center">
     <img src="storage\Product Form.png" width="720">
